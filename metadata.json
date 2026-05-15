@@ -1,0 +1,8 @@
+{
+  "name": "NCMIK - AI 연구 파트너",
+  "description": "국립의과학지식센터의 AI 기반 의과학 연구 포털. 최신 학술 논문 검색, 임상 데이터셋 제공 및 AI 요약 기능을 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
